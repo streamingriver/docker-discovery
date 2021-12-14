@@ -1,2 +1,2 @@
-# template
-repository template
+# Docker multi host auto discovery
+
